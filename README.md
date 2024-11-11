@@ -22,7 +22,7 @@ Below is the initial and end states of the robot after using this algorithm:
   </tr>
 </table>
 
-This is just one example for the initial and end states of the robot. In each initialization the robot will traverse a diffrent although the logic stays the same.
+This is just one example for the initial and end states of the robot. In each initialization the robot will traverse a different arena although the logic stays the same.
 
 Best Wishes,
 
