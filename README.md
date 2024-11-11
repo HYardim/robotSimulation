@@ -21,3 +21,9 @@ Below is the initial and end states of the robot after using this algorithm:
     </td>
   </tr>
 </table>
+
+This is just one example for the initial and end states of the robot. In each initialization the robot will traverse a diffrent although the logic stays the same.
+
+Best Wishes,
+
+Hakan YARDIM
