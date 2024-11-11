@@ -24,6 +24,12 @@ Below is the initial and end states of the robot after using this algorithm:
 
 This is just one example for the initial and end states of the robot. In each initialization the robot will traverse a different arena although the logic stays the same.
 
+To compile the code: gcc -o my_game main.c graphics.c arena.c background.c foreground.c robot.c stack.c
+
+To run the code: ./my_game
+
+To display it in Windows with Java DrawApp: .\my_game | java -jar drawapp-4.0.jar
+
 Best Wishes,
 
 Hakan YARDIM
